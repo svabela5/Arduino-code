@@ -9,5 +9,4 @@ void toggle(int pin){
   } else {
     digitalWrite(pin,HIGH);
   }
-  Serial.println("toggle");
 }
